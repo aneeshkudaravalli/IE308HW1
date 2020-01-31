@@ -1,0 +1,2 @@
+SELECT * FROM Medicare_Provider_Util_Payment_PUF_CY2017 
+WHERE Medicare_Provider_Util_Payment_PUF_CY2017.nppes_provider_city LIKE "Chicago"
